@@ -1,13 +1,3 @@
-Shell, I/O Redirections and filters
-Project done during Full Stack Software Engineering studies at Holberton School. It aims to learn about how to handle standard input and output and how to combine commands and filters with redirections in Shell.
-
-Technologies
-Scripts written in Bash 4.3.11(1)
-Tested on Ubuntu 14.04 LTS
-Files
-All of the following files are scripts:
-
-Filename	Description
 0-hello_world	Prints "Hello, World", followed by a new line to the standard output
 1-confused_smiley	Displays a confused smiley "(Ôo)'
 2-hellofile	Displays the content of the /etc/passwdfile
@@ -15,7 +5,7 @@ Filename	Description
 4-lastlines	Displays the last 10 lines of /etc/passwd
 5-firstlines	Displays the first 10 lines of /etc/passwd
 6-third_line	Displays the third line of the file iacta
-7-file	Creates a file named exactly \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:) containing the test Holberton School ending by a new line
+7-file	Creates a file named exactly
 8-cwd_state	Writes into the file ls_cwd_content the result of the command ls -la.
 9-duplicate_last_line	Duplicates the last line of the file iacta
 10-no_more_js	Deletes all the regular files with a .js extension that are present in the current directory and all its subfolders
